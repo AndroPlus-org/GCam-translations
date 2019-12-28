@@ -1,103 +1,103 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <resources>
-    <string name="hdr_processing">Unable to switch lens. There is a photo processing. Try again later.</string>
-    <string name="three_cameras">Unable to switch lens. You system does not support the auxiliary rear lens.</string>
-    <string name="exposure_title">Exposure compensation</string>
-    <string name="pref_screen_manual_focus_title">Auxiliary camera</string>
-    <string name="pref_checkbox_mf_enabled_auto">Main</string>
-    <string name="pref_checkbox_mf_enabled_macro">Telephoto</string>
-    <string name="pref_checkbox_mf_enabled_portrait">Wide</string>
-    <string name="pref_mf_on_title">Show buttons</string>
-    <string name="pref_ehn_awb_off">Off</string>
-    <string name="pref_ehn_awb_p2">Pixel 2</string>
-    <string name="pref_ehn_awb_p3">Pixel 3</string>
-    <string name="pref_frames_title">HDR+ Enhanced Frames</string>
-    <string name="pref_frames_9">Low - 9 frames</string>
-    <string name="pref_frames_15">Medium - 15 frames</string>
-    <string name="pref_frames_25">High - 25 frames</string>
-    <string name="pref_ehn_awb_title">Pixel AWB in HDR+ Enhanced</string>
-    <string name="pref_screen_manual_focus_summary">Enable the 2nd and the 3rd lens</string>
-    <string name="pref_version">Info</string>
-    <string name="pref_author">GCam 7.2.010 by Urnyx05</string>
-    <string name="pref_base">Based on the Google Camera version</string>
-    <string name="pref_version_number">Version : 1.9</string>
-    <string name="pref_credit">This version was built by all these devs</string>
-    <string name="pref_check_version">Check For Version</string>
-    <string name="pref_update">Check for updates and changelog</string>
-    <string name="pref_maxbright_title">Maximum screen brightness</string>
-    <string name="pref_maxbright_summary">It increases screen brightness at maximum to improve visualization in sunlight</string>
-    <string name="pref_maxexpsec_title">Astro Max Exposure Time</string>
-    <string name="pref_astro_title">Enable Astrophotography</string>
-    <string name="pref_astro_summary">It lets to take better photos in low light</string>
-    <string name="pref_enable_patcher_title">Enable lib patcher</string>
-    <string name="pref_enable_patcher_summary">If disabled, it will use default values</string>
-    <string name="lib_sharpness_title">Sharpness</string>
-    <string name="lib_luma_title">Luma denoise</string>
-    <string name="lib_chroma_title">Chroma denoise</string>
-    <string name="lib_saturation_title">Saturation</string>
-    <string name="lib_contrast_title">Contrast</string>
-    <string name="lib_group_title">Lib patcher</string>
-    <string name="lib_group_summary">It increases the quality of photos</string>
-    <string name="libpatcher_main">Back camera</string>
-    <string name="libpatcher_tele">Telephoto lens</string>
-    <string name="libpatcher_wide">Wide lens</string>
-    <string name="pref_noise_hex_375">0.375 (Default Marian)</string>
-    <string name="pref_noise_hex_1000">1.0 (Default Google)</string>
-    <string name="pref_hex_1000">1.0 (Default)</string>
-    <string name="pref_default">Default</string>
-    <string name="pref_pzoom_title">Disable zoom in portrait mode</string>
-    <string name="pref_pzoom_summary">Default zoom is 1.5x</string>
-    <string name="pref_enable_libpatcher_summary">"If disabled, it will use default values.
+	<string name="hdr_processing">処理中の写真があるためレンズを切り替えできません。後でもう一度お試しください。</string>
+	<string name="three_cameras">お使いのシステムでは補助レンズに対応していないためレンズを切り替えできません。</string>
+	<string name="exposure_title">露出補正</string>
+	<string name="pref_screen_manual_focus_title">補助カメラ</string>
+    <string name="pref_checkbox_mf_enabled_auto">メイン</string>
+    <string name="pref_checkbox_mf_enabled_macro">望遠</string>
+    <string name="pref_checkbox_mf_enabled_portrait">広角</string>
+    <string name="pref_mf_on_title">ボタンを表示</string>
+	<string name="pref_ehn_awb_off">オフ</string>
+	<string name="pref_ehn_awb_p2">Pixel 2</string>
+	<string name="pref_ehn_awb_p3">Pixel 3</string>
+	<string name="pref_frames_title">HDR+ 拡張フレーム</string>
+	<string name="pref_frames_9">低 - 9 フレーム</string>
+	<string name="pref_frames_15">中 - 15 フレーム</string>
+	<string name="pref_frames_25">高 - 25 フレーム</string>
+	<string name="pref_ehn_awb_title">HDR+ 拡張での Pixel AWB</string>
+	<string name="pref_screen_manual_focus_summary">二つ目と三つ目のレンズを有効化します。</string>
+	<string name="pref_version">情報</string>
+	<string name="pref_author">GCam 7.2.010 by Urnyx05</string>
+	<string name="pref_base">ベースの Google カメラバージョン</string>
+	<string name="pref_version_number">バージョン : 1.9</string>
+	<string name="pref_credit">このバージョンに携わった開発者</string>
+	<string name="pref_check_version">更新を確認</string>
+	<string name="pref_update">更新と更新履歴を確認します。</string>
+	<string name="pref_maxbright_title">画面の明るさを最大化</string>
+	<string name="pref_maxbright_summary">日光下でも見やすくするため、画面の明るさを最大にします。</string>
+	<string name="pref_maxexpsec_title">天体写真の最大露光時間</string>
+	<string name="pref_astro_title">天体写真モードを有効化</string>
+	<string name="pref_astro_summary">低照度でより良い写真を撮影できます。</string>
+	<string name="pref_enable_patcher_title">Lib パッチを有効化</string>
+	<string name="pref_enable_patcher_summary">無効にするとデフォルト値を使います。</string>
+	<string name="lib_sharpness_title">シャープネス</string>
+	<string name="lib_luma_title">輝度ノイズ除去</string>
+	<string name="lib_chroma_title">クロマノイズ除去</string>
+	<string name="lib_saturation_title">彩度</string>
+	<string name="lib_contrast_title">コントラスト</string>
+	<string name="lib_group_title">Lib パッチ</string>
+	<string name="lib_group_summary">写真の品質を向上します。</string>
+	<string name="libpatcher_main">背面カメラ</string>
+	<string name="libpatcher_tele">望遠レンズ</string>
+	<string name="libpatcher_wide">広角レンズ</string>
+	<string name="pref_noise_hex_375">0.375 (デフォルトマージン)</string>
+	<string name="pref_noise_hex_1000">1.0 (Google デフォルト)</string>
+	<string name="pref_hex_1000">1.0 (デフォルト)</string>
+	<string name="pref_default">デフォルト</string>
+	<string name="pref_pzoom_title">ポートレートモードでのズームを無効化</string>
+	<string name="pref_pzoom_summary">デフォルトズームは 1.5x です。</string>
+	<string name="pref_enable_libpatcher_summary">"無効にすると、デフォルト値を使用します。
 
-A few notes:
-1) These settings modify the final look of images, which means there is no best setting and should be adjusted according to your personal tastes after doing your own testing.
+注意:
+1) この設定は写真の見た目を変更するため、ベストな設定は存在しません。テストして自分の好みにあう設定に調整してください。
 
-2) The best way to test an option is to lower to minimum or raise to maximum and taking some test photos to see what happened.
+2) まずは設定を最小や最大にして撮影し、結果を確認してテストしてください。
 
-3) It is recommended to modify only the Global Multipliers until you have a general understanding of what each option does in a variety of scenes. Then once you understand, you can reset Global Multipliers to Default then tweak Wavelet Denoise Levels for a finer control of Denoise parameters to your liking.
+3) どのオプションがどのシーンに影響するか分からなければ、グローバル設定のみを変更することをおすすめします。オプションについて理解できたら、グローバル設定をデフォルトに戻して、ウェーブレットノイズ除去レベルをお好きなように調整してください。
 
-4) When Denoise parameters are lowered below 1.0, you might need to lower Sharpness to compensate for sharpening artifacts (bright halos around edges). The opposite is true if raising Denoise parameters higher than 1.0.
+4) ノイズ除去パラメータを1.0より下げた場合、アーティファクト発生を抑えるためシャープネスも下げる必要があります。1.0より上げた場合は逆にシャープネスを上げてください。
 
-5) This is a fast explanation of settings to edit tone curve.
-   - Dark Point: This is the leftmost starting point on the tonecurve. The Dark Point values impact the Y axis, and will move this starting point up the amount specified.
+5) トーンカーブ設定について簡単に説明します。
+   - 黒点: トーンカーブの左端の開始点です。 黒点の値はY軸に影響を与え、開始点を指定された量だけ上に移動します。
 
-   - White Point: This is the rightmost point on the tonecurve. The White Point values impact the Y axis, and move this end point down the amount specified.
+   - 白点: トーンカーブの右端のポイントです。 白点の値はY軸に影響を与え、終点を指定された量だけ下に移動します。
 
-   - Shadows: These values impact the lower curve half. Positive values push the lower half of the curve up, and negative values pull it down.
+   - 影: 下半分のカーブに影響を与えます。 正の値だとカーブの下半分を押し上げ、負の値だとカーブを引き下げます。
 
-   - Highlights: These values impact the upper curve half. Like Shadows, positive values push it up, and negative values pull it down."</string>
-    <string name="lib_fine_l1_title">Level 1 (Fine Details)</string>
-    <string name="lib_fine_l2_title">Level 2 (Rough Surfaces)</string>
-    <string name="lib_fine_l3_title">Level 3 (Edges)</string>
-    <string name="lib_fine_l4_title">Level 4 (Smooth Surfaces)</string>
-    <string name="lib_wavelet_luma_title">Wavelet Luma Denoise Levels (Factors of Global)</string>
-    <string name="lib_wavelet_chroma_title">Wavelet Chroma Denoise Levels (Factors of Global)</string>
-    <string name="lib_tonecurve_title">Tone Curve</string>
-    <string name="lib_tonecurve_on_title">Enable Tone Curve</string>
-    <string name="lib_pdarks_title">Dark Point</string>
-    <string name="lib_pwhites_title">White Point</string>
-    <string name="lib_darks_title">Shadows (Lower Curve Half)</string>
-    <string name="lib_whites_title">Highlights (Upper Curve Half)</string>
-    <string name="pref_libcurve_moreinfo_title">Tap here to learn more</string>
-    <string name="pref_aemode_back_title">Back camera</string>
-    <string name="pref_aemode_front_title">Front camera</string>
-    <string name="pref_aemode_title">ISO/Exposure Time HDR+</string>
-    <string name="pref_aemode_0">Automatic</string>
-    <string name="pref_aemodef_0">Automatic</string>
-    <string name="pref_exposure_max_time_title">Max. Exposure Time</string>
-    <string name="pref_exposure_max_time_0">0.3 sec</string>
-    <string name="pref_exposure_max_time_1">0.5 sec</string>
-    <string name="pref_exposure_max_time_2">1 sec</string>
-    <string name="pref_exposure_max_time_3">3 sec</string>
-    <string name="pref_exposure_max_time_4">0.6 * Max. Exposure Time</string>
-    <string name="pref_exposure_max_time_5">Max. Exposure Time</string>
-    <string name="exp_b_title">Back camera</string>
-    <string name="exp_f_title">Front camera</string>
-    <string name="pref_aemode_category_title">ISO/Exposure Time</string>
-    <string name="pref_aemode_5">ISO 100/Time max</string>
-    <string name="pref_aemode_summary">It lets to manually adjust the values of exposure depending on the amount of light</string>
-    <string name="pref_4k_timelapse_title">4K TimeLapse</string>
-    <string name="pref_4k_timelapse_summary">Uses more storage.</string>
-    <string name="pref_google_photos_title">Enable Google Photos</string>
-    <string name="pref_google_photos_summary">Use as camera gallery Google Photos with advanced features.</string>
+   - ハイライト: カーブの上半分に影響を与えます。 影と同様に、正の値だとカーブを押し上げ、負の値だと引き下げます。"</string>
+	<string name="lib_fine_l1_title">レベル 1 (細部)</string>
+	<string name="lib_fine_l2_title">レベル 2 (粗い表面)</string>
+	<string name="lib_fine_l3_title">レベル 3 (エッジ)</string>
+	<string name="lib_fine_l4_title">レベル 4 (滑らかな表面)</string>
+	<string name="lib_wavelet_luma_title">ウェーブレット輝度ノイズ除去レベル (グローバル)</string>
+	<string name="lib_wavelet_chroma_title">ウェーブレットクロマノイズ除去レベル (グローバル)</string>
+	<string name="lib_tonecurve_title">トーンカーブ</string>
+	<string name="lib_tonecurve_on_title">トーンカーブを有効化</string>
+	<string name="lib_pdarks_title">黒点</string>
+	<string name="lib_pwhites_title">白点</string>
+	<string name="lib_darks_title">影 (カーブ下半分)</string>
+	<string name="lib_whites_title">ハイライト (カーブ上半分)</string>
+	<string name="pref_libcurve_moreinfo_title">タップで詳細を表示</string>
+	<string name="pref_aemode_back_title">背面カメラ</string>
+	<string name="pref_aemode_front_title">前面カメラ</string>
+	<string name="pref_aemode_title">HDR+ ISO/露光時間</string>
+	<string name="pref_aemode_0">自動</string>
+	<string name="pref_aemodef_0">自動</string>
+	<string name="pref_exposure_max_time_title">最大露光時間</string>
+	<string name="pref_exposure_max_time_0">0.3 秒</string>
+	<string name="pref_exposure_max_time_1">0.5 秒</string>
+	<string name="pref_exposure_max_time_2">1 秒</string>
+	<string name="pref_exposure_max_time_3">3 秒</string>
+	<string name="pref_exposure_max_time_4">0.6 * 最大露光時間</string>
+	<string name="pref_exposure_max_time_5">最大露光時間</string>
+	<string name="exp_b_title">背面カメラ</string>
+	<string name="exp_f_title">前面カメラ</string>
+	<string name="pref_aemode_category_title">ISO/露光時間</string>
+	<string name="pref_aemode_5">ISO 100/時間最大</string>
+	<string name="pref_aemode_summary">光量によって最大露光時間を調整します。</string>
+	<string name="pref_4k_timelapse_title">4K タイムラプス</string>
+	<string name="pref_4k_timelapse_summary">容量をより多く消費します。</string>
+	<string name="pref_google_photos_title">Google フォトを有効化</string>
+	<string name="pref_google_photos_summary">高機能な Google フォトをギャラリーとして使用します。</string>
 </resources>
